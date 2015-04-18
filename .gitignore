@@ -1,0 +1,7 @@
+# File and what we ignore
+# Ignore as Zvit
+*.docx
+# Ignore all in flider logs
+logs/
+# Ignore txt files in floder docs
+docs/*.txt
